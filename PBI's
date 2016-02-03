@@ -1,0 +1,13 @@
+1.) As a user I want to see my character in a large font so I can easily read it.
+2.)As a user I want to be able to copy and paste my character in a input window so it is easy to translate icons
+3.)as a user i want my character translated so I can use it in one of my HTML or java programs  		                        
+4.)as a user i want to know what the english description of that character so I can better understand what it is.
+
+
+
+Displays it for you in a large font e.g. é
+Tells you its hex and decimal Unicode numbers. e.g. hex: 0x00e9 decimal: 233.
+Shows you the alpha, hex and decimal entities e.g. alpha entity: &eacute;, hex entity: &#x00e9; decimal entity &#233; to generate the character.
+Shows you how to code it in Java e.g. \u00e9.
+Shows you what the character will look like in hex when encoded in UTF-8 e.g. e9.
+Tells you in words what the character is, e.g. Latin small letter e with acute.
